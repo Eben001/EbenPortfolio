@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EbenPortfolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_eben">
+        Hi there, I\'m Ebenezer.
+        I\'m an enthusiastic and skilled Android Developer.
+        I love developing apps for android.
+        I also love implementing new technologies to maximise development efficiency.
+
+
+
+    </string>
+
+
+    <string name="skills">
+        Kotlin\nJava\nAndroid SDK\nPython (programming language)\nC (programming language)\nGit
+    </string>
+
+
+    <string name="work">Portfolio App\nBook Library\nMath Game\nTodo App</string>
+
+
+    <string name="contact">LinkedIn: </string>
+    <string name="phoneNumber">+2349038549279</string>
+    <string name="text">some text</string>
+    <string name="gana_ebenezer">Gana Ebenezer</string>
+    <string name="githubId">https://github.com/Eben001</string>
+    <string name="linkedin_id">https://www.linkedin.com/in/ebenezergana</string>
+    <string name="emailId">ebenezergana@gmail.com</string>
+    <string name="fbId">https://web.facebook.com/ebenezer.gana.7/</string>
+
+</resources>
